@@ -8,6 +8,10 @@ body {
     padding: 0;
 }
 
+.center {
+	text-align: center;
+}
+
 .nav_bar_background {
 	background: #333;
 }
